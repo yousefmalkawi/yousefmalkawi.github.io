@@ -28,8 +28,12 @@ img{
 	padding: 10px;
 
 }
+.links a{
+	padding: 10px;
+}
 .links a:hover{
 	background-color: yellow;
+
 }
 
 .collapse h1{
